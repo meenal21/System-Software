@@ -3,6 +3,7 @@
 Name: 12.c
 Author: Meenal Jain
 Description: Write a program to find out the opening mode of a file. Use fcntl.
+Date: 30th August 2024
 ================================================================================
 */
 

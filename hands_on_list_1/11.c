@@ -6,6 +6,7 @@ Description: Write a program to open a file, duplicate the file descriptor and a
 a. use dup
 b. use dup2
 c. use fcntl
+Date: 30th August 2024
 ================================================================================
 */
 
