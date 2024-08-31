@@ -1,0 +1,1 @@
+appending without dup()appending with dup()appending with dup2()appending with fcntlWritten by parentWritten by child
