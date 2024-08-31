@@ -3,7 +3,7 @@
 Name: 1a.c
 Author: Meenal Jain
 Description: Create following type of files using system calls
-a. symlink
+a. soft link
 Date: 31st August 2024
 ================================================================================
 */
