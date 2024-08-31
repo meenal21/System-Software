@@ -1,0 +1,13 @@
+a. ln -s ./demofile ./demofile-soft_link
+b. ln ./demofile ./demofile-hard_link
+c. mkfifo ./myfifo_new
+
+
+-rw-rw---- 5 ubuntu ubuntu    30 Aug 29 17:15 demofile-hard_link
+-rw-rw---- 5 ubuntu ubuntu    30 Aug 29 17:15 demofile-hardlink
+lrwxrwxrwx 1 ubuntu ubuntu    10 Aug 31 23:44 demofile-soft_link -> ./demofile
+-rw-rw---- 5 ubuntu ubuntu    30 Aug 29 17:15 demofile-softlink
+
+prw-rw-r-- 1 ubuntu ubuntu     0 Aug 31 23:47 myfifo_new|
+
+
