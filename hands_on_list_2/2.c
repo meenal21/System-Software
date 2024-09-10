@@ -1,3 +1,12 @@
+/*
+================================================================================
+Name: 3.c
+Author: Meenal Jain
+Description: Write a program to print system resource limits.
+Date: 10th September 2024
+================================================================================
+*/
+
 #include <sys/time.h>
 #include <sys/resource.h>
 #include <stdio.h>
@@ -17,3 +26,6 @@ int main(){
 	return 0;
 
 }
+/*
+The system resource limits for core are soft limit - 0, hard limit - -1
+*/
