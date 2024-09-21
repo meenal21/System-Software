@@ -1,6 +1,6 @@
 /*
 ================================================================================
-Name: 6.c
+Name: 7.c
 Author: Meenal Jain
 Description: Write a simple program to print the created thread ids.
 Date: 21st September 2024
