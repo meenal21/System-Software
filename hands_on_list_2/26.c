@@ -1,6 +1,6 @@
 /*
 ================================================================================
-Name: 20.c
+Name: 26.c
 Author: Meenal Jain
 Description: Write a program to send a message to the message queue.
 Date: 21st September 2024
